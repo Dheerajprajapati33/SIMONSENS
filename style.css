@@ -1,0 +1,37 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    text-align: center;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+.hotpink{
+    background-color: #ff69b4;
+}
+.green{
+    background-color: #00ff00;
+}
+.yellow{
+    background-color: #ffff00;
+}
+.blue{
+    background-color: #0000ff;
+}
+.flash{
+    background-color: #fff;
+}
+.userflash{
+    background-color: rgb(235, 100, 100);
+}
